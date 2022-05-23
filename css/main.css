@@ -1,0 +1,129 @@
+body	{
+	font-style: 15px;
+	font-family: open sans, sans-serif;
+	padding: 0 ;
+	margin: 0 ;
+	height: 1170px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+div, p, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+
+}
+
+.header {
+	background: rgb(78,191,254);
+background: -moz-linear-gradient(90deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+background: linear-gradient(90deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#4ebffe",endColorstr="#378fd9",GradientType=1 );
+padding-top: 62px;
+color: #fff;
+
+}
+
+.conteiner {
+	width: 1170px ;
+	margin: 0 auto;
+}
+
+
+.title {
+	font-size: 37px;
+    font-family: ubuntu-bold, sans-serif;
+}
+
+.wraper {
+     display: flex;
+}
+
+span {
+	font-size: 59px;
+}
+
+.intro {
+	font-size: 16px;
+	margin-top: 40px;
+	font-family: open sans-regular, sans-serif;
+}
+
+.btn {
+	color: black;
+	display: block;
+	font-size: 15px;
+	border-radius: 100px;
+	font-family: Montserrat-black, sans-serif;
+	background: #ffd429;
+	padding: 20px 0;
+	width: 222px ;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 42px;
+}
+.img {
+    margin-top: 0px;
+}
+
+.learn {
+	padding-top: 107px;
+	padding-bottom: 119px;
+	width: 1170px;
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	justify-self: space-between;
+}
+
+.icon	{
+	display: flex;
+	font-family: ubuntu-regular, sans-serif;
+	width: 289px;
+
+}
+
+h2 {
+	margin-bottom: 72px;
+	font-family: ubuntu-bold, sans-serif;
+	font-size: 30px;
+}
+.ti {
+	margin-right: 90px;
+}
+
+.val {
+	margin-left: 99px;
+}
+
+.mail {
+	background: #ecf3f8;
+	margin: 0 ;
+	text-align: center;
+	padding-top: 103px;
+	padding-bottom: 100px;
+}
+
+.input {
+	width: 344px;
+	height: 47px;
+	border: 1px solid #bbbbbb;
+}
+
+.forms {
+	font-family: ubuntu-regular, sans-serif;
+    margin-bottom: 16px;
+}
+
+.footer {
+	background: #164d7a;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+
+
+
